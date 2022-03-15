@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ekşioğlu</h1>
-<h3 align="center">Hello, Unity devolooper. Ali Ekşioğlu 3rd Year I am studying computer engineering at Konya Technical University. I have intermediate level of java , flutter , c# , c++ language. Previously, I worked in the management staff of Uni4society, betaclassonline, flutterstudentsclub, bidunya content platforms. Previously, I designed a mobile signin model with firebase integration in flutter. I participated in many entrepreneurial, gamification, software hacklakton contests and organized one of them. Recently, I've been dealing with unity for a month, now</h3>
+<h3 align="center">Hello, My name is Ali Ekşioğlu 3rd Year I am studying computer engineering at Konya Technical University. I have intermediate level of java , flutter , c# , c++ language. Previously, I worked in the management staff of Uni4society, betaclassonline, flutterstudentsclub, bidunya content platforms. Previously, I designed a mobile signin model with firebase integration in flutter. I participated in many entrepreneurial, gamification, software hacklakton contests and organized one of them. Recently, I've been dealing with unity for 5 month, now</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alieksioglu&label=Profile%20views&color=0e75b6&style=flat" alt="alieksioglu" /> </p>
 
