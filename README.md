@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ekşioğlu</h1>
-<h3 align="center">Hello, My name is Ali Ekşioğlu 4rd Year I am studying computer engineering at Konya Technical University. I have intermediate level of java , java spring boot , react , js , flutter , c# , c++ language.I took part in the management staff of many communities. Previously, I designed a mobile signin model with firebase integration in flutter. I participated in many entrepreneurial, gamification, software hacklakton contests and organized one of them. Actually as program/technology i can use pixelArt,adobeIllistrator,Canva,vs,vscode,inteliifia ,office programing, Unity , gitlab , codex , jira , rest API , docker , mongo DB , firebase im software developer</h3>
+<h3 align="center">While studying in the 3rd grade at the university, I also worked as a remote game developer in an overseas company. With C# - Unity, I took part in professional game projects for phone and computer in this sector for 2 years.  After graduation, I am developing projects with ReactJs, python, Java technologies in the web sector.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alieksioglu&label=Profile%20views&color=0e75b6&style=flat" alt="alieksioglu" /> </p>
 
