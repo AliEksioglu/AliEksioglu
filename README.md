@@ -3,11 +3,7 @@
 
 <h3 align="center">While studying in the 3rd grade at the university, I also worked as a remote game developer in an overseas company. With C# - Unity, I took part in professional game projects for phone and computer in this sector for 2 years.  After graduation, I am developing projects with ReactJs, python, Java technologies in the web sector.</h3>
 
-- 🔭 I’m currently working on **React**
-- 🔭 I’m currently working on **Python**
-- 🔭 I’m currently working on **Unity**
-- 🔭 I’m currently working on **Java**
-- 🔭 I’m currently working on **C**
+- 🔭 I’m currently working on **React,JS,Python,Java,C#,Unity**
 
 - 🌱 I’m currently learning **python , IOT**
 
