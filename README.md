@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@alieksioglu5174](https://www.youtube.com/@alieksioglu5174)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ali-eksioglu-9807911bb/](https://www.linkedin.com/in/ali-eksioglu-9807911bb/)
+- 📝 My linked-in profile [https://www.linkedin.com/in/ali-eksioglu-9807911bb/](https://www.linkedin.com/in/ali-eksioglu-9807911bb/)
 
 - 💬 Ask me about **React , JS , Unity , Python , C#**
 
